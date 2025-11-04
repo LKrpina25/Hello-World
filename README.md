@@ -10,4 +10,4 @@ Moj prvi GitHub repozitorij
 Pogledaj [Licenca](licence)
 
 ### Osnove Git-a i GitHub-a
-[Ovdje](https://merlin.srce.hr) možete saznati višse o Git tehnologiji
+[Ovdje](https://merlin.srce.hr) možete saznati više o Git tehnologiji
